@@ -25,8 +25,7 @@ if(x=="1"){xxx="laptop-jacks-are-essential-for-some.html"}
 if(x=="2"){xxx="how-contract-management-system-works.html"}
 if(x=="3"){xxx="epson-ink-cartridges-review-for-stylus.html"}
 if(x=="4"){xxx="what-to-look-for-in-android-mini-pc.html"}
-output.value = "https://didi-cyber.blogspot.com/2013/8/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
-
+output.value = "https://didi-cyber.blogspot.com/2013/8/"+xxx+"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
