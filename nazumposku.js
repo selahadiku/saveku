@@ -64,7 +64,7 @@ if ((document.documentElement.scrollTop != 0 && lazyaddthis === false) || (docum
         // SIMPAN KODE JAVASCRIPT DISQUS DI BAWAH INI
     (function() {  // DON'T EDIT BELOW THIS LINE
         var d = document, s = d.createElement('script');      
-        s.src = '//'+mr-hadi-com+'.disqus.com/embed.js';
+        s.src = '//'+shortname+'.disqus.com/embed.js';
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
