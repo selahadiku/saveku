@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Related Post</title>
+<meta content='width=device-width, initial-scale=1' name='viewport'>
+<style>
+body {
+  background:0 0;
+  margin:0;
+  padding:0;
+  color:#333;
+  font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Oxygen-Sans","Ubuntu","Cantarell","Helvetica Neue",sans-serif;
+}
+a {
+  text-decoration:none;
+  transition:all 400ms ease-in-out;
+}
+*{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.related-post-by-title{width:100%;margin:25px 0 0;display:block;position:relative}
+.related-post-by-title ul{padding:15px 10px 10px 30px;border:1px solid #ddd;margin:0;text-align:left;}
+.related-post-by-title h4{display:inline-block;background:#fff;padding:0 15px;height:28px;line-height:28px;border:1px solid #ddd;margin:0;position:absolute;top:-14px;left:15px;font-size:16px;font-weight:700}
+.related-post-by-title li {margin-top:10px;line-height:1.2;padding-left:0!important}
+.related-post-by-title li a{font-size:16px;font-weight:700;}
+</style>
+</head>
+<body>
+
+<div class='related-post-by-title' id='related'>
 <script type="text/javascript">
 //<![CDATA[
 // Multi Related Post
@@ -25,3 +54,7 @@ var r=t.lastIndexOf("
 ");
 if(r>0) {obj0.innerHTML=s.substr(0,r);obj1.innerHTML=s.substr(r+4);}
 </script>
+</div>
+
+</body>
+</html>
