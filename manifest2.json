@@ -1,11 +1,11 @@
 {
-  "name": "Mr Hadi",
-  "short_name": "Info Pendidikan",
+  "name": "Mr Hadi Dot Com",
+  "short_name": "Info PTK",
   "start_url": "https://www.mr-hadi.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "Info Pendidikan dan Bloggig",
+  "description": "Info Pendidikan dan Bloging",
   "icons": [{
     "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
     "sizes": "48x48",
