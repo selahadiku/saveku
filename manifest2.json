@@ -1,0 +1,38 @@
+{
+  "name": "Mr Hadi Dot Com",
+  "short_name": "Info Pendidikan",
+  "start_url": "https://www.mr-hadi.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Info Pendidikan dan Bloggig",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--omklUOiicE/XSbum8gdBwI/AAAAAAAAA0o/_Sn9Wh32_5URe1-I4lMZzfP0j45SOhoSwCLcBGAs/s1600/hsn2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
