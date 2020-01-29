@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Youtube Thumbnail Generator - by kompiajaib</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<div id="page_content">
+<h1>Download Generator</h1>
+<p>By <a href="http://www.mr-hadi.com/" title="Mr Hadi Dot Com">Mr Hadi Dot Com</a></p>
+<label for="cde">Enter Share link:</label> <input id="cde" onkeydown="if (event.keyCode == 13) $('but').click()" placeholder="e.g., https://drive.google.com/file/d/0B0k76GMavVymS2RPY3RGTzgwVzg/view?usp=sharing" type="text" /><br />
+<button id="but">Generate</button> <label for="linkpaste">Direct Download link:</label> <input id="linkpaste" readonly="" type="text" />
+<br />
+<div class="update">
+<b style="color: red;">Update: </b> Tired of using this tool? Within seconds you can  
+    generate direct download links for the files inside chosen Google drive folders or just for all your Google drive files. Try <a href="https://gsuite.google.com/marketplace/app/drive_direct_links/520711270513" target="_blank">Drive Direct Links add-on</a>.<br />
+<b style="color: red;">Update: </b>On Jan 29, 2018, this tool was updated to work with all Google drive links. (i.e) Documents, Spreadsheets &amp; Presentations. All type of Google documents will be downloaded in <mark>PDF</mark> format, However, you can change this behaviour. Just alter the download link according to the instructions below:<br />
+From <code>format=pdf</code>, for <code>doc</code> change it to <code>format=doc</code>, for <code>xlsx</code>, <code>format=xlsx</code>, for <code>pptx</code>, change it to <code>format=pptx</code>.</div>
+<div class="instruc">
+<h2>
+How to create direct links with this tool?</h2>
+<ol>
+<li>First you must obtain the share URL.</li>
+<li>Here is the <a href="http://www.syncwithtech.org/2014/09/direct-download-link.html#dd" target="_blank">guide to obtain Share link</a>.</li>
+<li>Paste that link in the 'Enter Share link' textbox.</li>
+<li>Then, press Enter or click Generate.</li>
+<li>Press Ctrl + C to copy the direct link to your clipboard.</li>
+</ol>
+</div>
+<div class="notes">
+<h2>
+Important notes</h2>
+<ul>
+<li>You can save this page by pressing Ctrl + S and use it whenever you need.</li>
+<li>This tool will work only for Google Drive, Dropbox and Onedrive links only.</li>
+</ul>
+</div>
+<div style="clear: both;">
+</div>
+<div id="frameContainer">
+</div>
+<script src="https://cdn.rawgit.com/vicke4/da4ed4fcd23d0f646144/raw/ae77dd719ff0abb50e516fb58bdd41712f860d2a/link_generator.js" type="text/Javascript"></script>
+<!--<script src="https://cdn.rawgit.com/vicke4/da4ed4fcd23d0f646144/raw/c86fabcb08f2c83711a1c6afd78d819f6b4ae514/link_generator.js" type="text/Javascript"></script>-->
+<!--<script src="https://cdn.rawgit.com/vicke4/Blogger/master/download.js" type="text/Javascript"></script>-->
+<!--<script src="https://googledrive.com/host/0B0k76GMavVymS3NidkN4Q0RwRFk" type="text/Javascript"></script>-->
+<!--<script src="https://syncwithtech.googlecode.com/svn/trunk/download.js" type="text/Javascript"></script>-->
+<div class="footer">
+Credit to <a href="https://www.binarymoon.co.uk/" target="_blank" rel="nofollow">Binary Moon</a>
+</div>
+</div>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js'></script>
+<script type='text/javascript' src='js/ytg-script.js'></script>
+</body>
+</html>
