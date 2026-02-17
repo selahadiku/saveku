@@ -1,6 +1,6 @@
 {
   "name": "Mr Hadi Dot Com",
-  "short_name": "Info PTK",
+  "short_name": "Edu Math",
   "start_url": "https://www.mr-hadi.com/",
   "display": "standalone",
   "background_color": "#fff",
@@ -36,3 +36,4 @@
     "type": "image/png"
   }]
 }
+
