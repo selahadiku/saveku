@@ -1,7 +1,7 @@
 {
-  "name": "Mr Hadi Dot Com",
+  "name": "Edu Math",
   "short_name": "Edu Math",
-  "start_url": "https://www.mr-hadi.com/",
+  "start_url": "https://hadisetyoblog.blogspot.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
@@ -36,4 +36,5 @@
     "type": "image/png"
   }]
 }
+
 
